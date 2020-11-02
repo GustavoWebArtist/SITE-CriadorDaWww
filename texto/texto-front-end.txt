@@ -1,0 +1,5 @@
+front-end  & back end
+
+O desenvolvedor front-end: é responsável por “dar vida” à interface. ... Por isso, é importante que esse desenvolvedor também se preocupe com a experiência do usuário. Na parte de estudo, este profissional foca em HTML (linguagem de marcação), CSS (linguagem de estilo) e JavaScript (linguagem de script/programação)
+
+Desenvolvedor back-end: é o responsável por dinamizar o site através das linguagens de programação(Java,C#,DELPHI,PHP). Cada um dos papéis são muito importantes e eles possui dependência um do outro.

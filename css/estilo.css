@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* importação de fonte */
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Raleway:200i');
+
+body{
+	margin: auto;
+	padding: auto;
+    height: auto;
+    background-image: url(../img/alejandro-escamilla-2-1-unsplash.jpg);
+    background-repeat: no-repeat;
+	background: cover;
+}
+
+#frase {
+	color: #ffffff;
+	text-align: center;
+	font-size: 1.3em;
+	font-weight: bolder;
+	background-color: #C96363;
+	width: 900px;
+	margin-top: 50px;
+	margin-left: 250px;
+}
+
+.Albert {
+	font-size: 0.9em;
+	font-style: italic;
+	color: #ffd700;
+}
+
+/*===LOGO===*/
+.logo {
+    background-image: url(../img/logotipo.png);
+/*    background-color: forestgreen;*/
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 250px;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+
+
+/*-------FIM-------*/
+
+
+/*--------CORPO-CONTEUDO------*/
+
+/* ALTERAÇÃO DO TABLE */
+
+table {
+	margin-top: -90px;
+	padding: 10px;
+	border: none;
+}
+
+/* CONTEUDO DO TIM */
+
+.conteudo1 {
+	margin-top: 431px;
+	background-color: #ffffff;
+	width: auto;
+	height: 1210px;
+}
+
+#conteudo1texto {
+	padding-top: 150px;
+	float: right;
+	font-family: 'Roboto' , sans-serif;
+	text-align: center;
+	text-align: justify;
+}
+
+.texto1 {
+	font-family: 'Raleway' , sans-serif;
+}
+
+/* TEXTO */
+p {
+	margin: 15px;
+}
+
+/* ===  IMAGENS ===*/
+
+img {
+	background-color: green;
+	width: 500px;
+	height: 350px;
+}
+
+/* RODAPE */
+
+footer {
+	margin-top: 1px;
+	background-color: #cecece;
+	height: 150px;
+}
+
+.rodape {
+	margin: auto;
+	padding: 5px;
+	text-align: center;
+	font-size: 1.1em;
+}
+
+hr {
+	color: red;
+}

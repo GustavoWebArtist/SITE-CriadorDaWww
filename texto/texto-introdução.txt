@@ -1,0 +1,3 @@
+historia do html 
+
+A web foi inventada em 1992 por Sir Tim Berners-Lee, Atualmente, Tim é diretor do World Wide Web Consortium(W3C), pesquisador sênior do laboratorio da ciencia da computação e inteligência artificial (CSAIL) do instituto de tecnologia de massachusetts (MIT) e professor de ciência da computação na universidade de Southampton, na inglaterra. 
